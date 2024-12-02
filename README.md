@@ -32,14 +32,16 @@ The rules engine is responsible for:
    ```
    git clone https://github.com/your-username/winter-supplement-rules-engine.git
    ```
-2. Navigate to the project directory:
    ```
+2. Navigate to the project directory:
+   
    cd winter-supplement-rules-engine
+   
    ```
 3. Install the required dependencies:
    ```
    pip install -r requirements.txt
-   ```
+
 
 ### Updating MQTT Topic ID
 To run the rules engine on your local machine, you'll need to update the MQTT topic ID. Follow these steps:
